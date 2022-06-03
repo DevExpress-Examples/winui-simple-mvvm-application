@@ -1,6 +1,5 @@
 <!-- default badges list -->
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/499404716/22.1.2%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1093326)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 <!--
@@ -23,7 +22,6 @@ This example creates a WinUI MVVM application that contains a view model that is
 
 ## Documentation
 
-- [Compile-time generated view model](https://docs.devexpress.com/WinUI/402937/mvvm/viewmodels?v=22.1#generated-view-models)
 - [WinUI MVVM Framework](https://docs.devexpress.com/WinUI/102569/mvvm-framework?v=22.1)
 - [ViewModels](https://docs.devexpress.com/WinUI/402937/mvvm/viewmodels?v=22.1)
 - [Behaviors](https://docs.devexpress.com/WinUI/402936/mvvm/behaviors?v=22.1)
