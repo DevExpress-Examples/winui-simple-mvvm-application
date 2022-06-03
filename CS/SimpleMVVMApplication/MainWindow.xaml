@@ -1,0 +1,17 @@
+﻿<Window
+    x:Class="SimpleMVVMApplication.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:dxc="using:DevExpress.WinUI.Core"
+    mc:Ignorable="d">
+    <StackPanel>
+        <dxc:Interaction.Behaviors>
+            <dxc:KeyToCommand KeyGesture="Enter" Command="{x:Bind ViewModel.RegisterCommand}"/>
+            <dxc:MessageBoxService ServiceClient="{x:Bind ViewModel}"/>
+        </dxc:Interaction.Behaviors>
+        <TextBox Text="{x:Bind ViewModel.UserName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <Button Content="Register" Command="{x:Bind ViewModel.RegisterCommand}"/>
+    </StackPanel>
+</Window>
