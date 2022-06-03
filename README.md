@@ -20,8 +20,6 @@ This example creates a WinUI MVVM application that contains a view model that is
 
 <!-- default file list end --> 
 
-<!-- 
-
 ## Documentation
 
 - [Compile-time generated view model](https://docs.devexpress.com/WinUI/402937/mvvm/viewmodels?v=22.1#generated-view-models)
