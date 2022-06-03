@@ -23,9 +23,9 @@ This example creates a WinUI MVVM application that contains a view model that is
 ## Documentation
 
 - [Compile-time generated view model](https://docs.devexpress.com/WinUI/402937/mvvm/viewmodels?v=22.1#generated-view-models)
-- [WinUI MVVM Framework](https://docs.devexpress.com/WinUI/102569/mvvm-framework?v=22.1))
+- [WinUI MVVM Framework](https://docs.devexpress.com/WinUI/102569/mvvm-framework?v=22.1)
 - [ViewModels](https://docs.devexpress.com/WinUI/402937/mvvm/viewmodels?v=22.1)
-- [Behaviors](https://docs.devexpress.com/WinUI/402936/mvvm/behaviors?v=22.1))
+- [Behaviors](https://docs.devexpress.com/WinUI/402936/mvvm/behaviors?v=22.1)
 - [UI Services](https://docs.devexpress.com/WinUI/402940/mvvm/services?v=22.1)
 
 ## Blog Post
