@@ -34,5 +34,5 @@ This example creates a WinUI MVVM application that contains a view model that is
 
 ## More Examples
 
-- [Create a custom WinUI MVVM Behavior]
-- [Create a custom WinUI MVVM UI Service]
+- [Create a custom WinUI MVVM Behavior](https://github.com/DevExpress-Examples/winui-mvvm-custom-behavior)
+- [Create a custom WinUI MVVM UI Service](https://github.com/DevExpress-Examples/winui-mvvm-custom-service)
