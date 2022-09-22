@@ -15,9 +15,9 @@ This example creates a WinUI MVVM application that contains a view model that is
 
 ## Files to Look At
 
-- [MainWindow.xaml](./CS/winui-simple-mvvm-application/SimpleMVVMApplication/Views/MainWindow.xaml)
-- [MainWindow.xaml.cs](./CS/winui-simple-mvvm-application/SimpleMVVMApplication/Views/MainWindow.xaml.cs)
-- [MainViewModel.cs](./CS/winui-simple-mvvm-application/SimpleMVVMApplication/Views/MainViewModel.cs)
+- [MainWindow.xaml](./CS/SimpleMVVMApplication/MainWindow.xaml)
+- [MainWindow.xaml.cs](./CS/SimpleMVVMApplication/MainWindow.xaml.cs)
+- [MainViewModel.cs](./CS/SimpleMVVMApplication/MainViewModel.cs)
 
 <!-- default file list end --> 
 
